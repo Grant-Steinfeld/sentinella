@@ -1,10 +1,13 @@
-# SmartOrg Sentinella Project
+# Sentinella Project
 
-This project is to monitor git repositories status, by connecting a gadget with raspberry pi.
+This project is to monitor git repositories status, by and a Element14 7" Touchscreen Display and a Raspberry Pi 2 
 
-## Dependency
+![Sentinella v2](./images/sentinella.jpg)
+*** Sentinella v2 at work Menlo Park ( 2017 )***
 
-### Python
+## Dependencies
+
+### Python 2
 
 * flask
 * flask-cors
