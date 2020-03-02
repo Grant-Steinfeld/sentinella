@@ -3,9 +3,11 @@
 This bespoke IoT project was part of a Make/Hack-a-thon with the SmartOrg development team and it's purpose is to monitor git repositories status, by and a Element14 7" Touchscreen Display and a Raspberry Pi 2 
 
 ![Sentinella v2](./images/sentinella.jpg)
-***Sentinella v2 at work Menlo Park ( 2017 )***
+***Sentinella v2 at work Menlo Park (2016)***
 
 
+![Sentinella v2](./images/sentinella2.jpg)
+***Up and running, ready to upload code!***
 ## The code to hook it up is in this repo, feel free to use it.
 ## Dependencies
 
