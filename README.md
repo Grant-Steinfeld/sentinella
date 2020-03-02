@@ -6,7 +6,7 @@ This bespoke IoT project was part of a Make/Hack-a-thon with the SmartOrg develo
 ***Sentinella v2 at work Menlo Park (2016)***
 
 
-![Sentinella v2](./images/sentinella2.jpg)
+![Sentinella v2](./images/sentinella-2.jpg)
 ***Up and running, ready to upload code!***
 ## The code to hook it up is in this repo, feel free to use it.
 ## Dependencies
